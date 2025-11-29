@@ -8,10 +8,6 @@
     <!-- Optional: Enable haptic feeback -->
     <uses-permission android:name="android.permission.VIBRATE" />
 
-    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
-
    <application
         android:label="Insta Assets Picker Example"
         android:name="${applicationName}"
