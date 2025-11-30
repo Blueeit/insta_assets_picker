@@ -23,7 +23,10 @@ dependencies:
       ref: main
   fraction: ^5.0.5 # to show crop ratio in crop view
 
-  wechat_assets_picker: ^9.8.0
+  wechat_assets_picker: 
+    git:
+      url: https://github.com/Blueeit/wechat_assets_picker.git
+      ref: main
 
   # match with wechat_assets_picker package
   photo_manager: 
